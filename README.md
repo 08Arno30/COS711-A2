@@ -1,4 +1,7 @@
 # COS711-A2
+_Kaggle was used for this assignment_
+
+The report can be found in the _docs_ folder.
 
 ## Introduction
 
