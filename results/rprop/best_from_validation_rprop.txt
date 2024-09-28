@@ -1,0 +1,7 @@
+Number of hidden layers: 4
+Learning rate: 0.02
+Number of epochs: 356
+Optimiser: RPROP
+Loss function: Cross-entropy
+Best Accuracy: 0.6060606060606061
+Best Loss: 0.896354615688324

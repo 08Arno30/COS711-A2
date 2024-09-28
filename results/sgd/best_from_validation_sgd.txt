@@ -1,0 +1,7 @@
+Number of hidden layers: 4
+Learning rate: 0.02
+Number of epochs: 356
+Optimiser: SGD
+Loss function: Cross-entropy
+Best Accuracy: 0.7344028520499108
+Best Loss: 1.2313693761825562

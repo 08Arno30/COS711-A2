@@ -1,0 +1,4 @@
+Learning Rate 1,Learning Rate 2,Confidence Overlap,T-Statistic,P-Value,Significant Difference
+0.001,0.01,False,1.2216444294967137,0.28891483209461954,False
+0.001,0.02,False,2.0563697077300227,0.10890009667002165,False
+0.01,0.02,True,1.1355184309239719,0.3195813327960336,False

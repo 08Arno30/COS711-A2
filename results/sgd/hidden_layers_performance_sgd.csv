@@ -1,0 +1,4 @@
+No. Hidden Layers 1,No. Hidden Layers 2,Confidence Overlap,T-Statistic,P-Value,Significant Difference
+4,3,True,-1.005895636709356,0.3713772772180175,False
+4,2,False,-2.4841995237321166,0.06790486540402771,False
+3,2,False,-1.1837749492126268,0.3020436361903755,False

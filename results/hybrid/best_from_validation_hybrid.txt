@@ -1,0 +1,7 @@
+Number of hidden layers: 2
+Learning rate: 0.001
+Number of epochs: 356
+Optimiser: HYBRID
+Loss function: Cross-entropy
+Best Accuracy: 0.5204991087344029
+Best Loss: 1.0252516269683838

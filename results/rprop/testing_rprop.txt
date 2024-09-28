@@ -1,0 +1,7 @@
+Number of hidden layers: 4
+Learning rate: 0.02
+Number of epochs: 356
+Optimiser: RPROP
+Loss function: Cross-entropy
+Test Accuracy: 0.5918003565062389
+Test Loss: 0.8909403085708618
